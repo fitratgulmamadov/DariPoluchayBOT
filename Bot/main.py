@@ -4,7 +4,7 @@ from datetime import datetime
 from main_menu import *
 
 
-bot = telebot.TeleBot("xxxxxx")
+bot = telebot.TeleBot("6376269844:AAGm3OJrNP8krIetlXPyR2ju7OSi8KpKHBk")
 
 # SERVER CONFIG
 server_config = 'http://127.0.0.1:8003/botconf/'
